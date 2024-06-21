@@ -8,3 +8,7 @@
 let BRAND_NAME = 'I am a hero'
 // ได้ นิยมใช้ในกรณี...
 ```
+
+### Homework Finished 21/06/2567
+- นายวัชรพล แดงเปี่ยม (มายด์)
+- Online-CC#18
